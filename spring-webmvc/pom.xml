@@ -278,7 +278,7 @@
       <dependency>
         <groupId>io.projectreactor</groupId>
         <artifactId>reactor-bom</artifactId>
-        <version>Aluminium-BUILD-SNAPSHOT</version>
+        <version>Aluminium-RELEASE</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>
